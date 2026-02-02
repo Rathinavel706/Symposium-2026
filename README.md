@@ -71,8 +71,11 @@ Github Link -- https://github.com/Rathinavel706
 
 💻 Technology Used:
 Language: Python (Flask Framework)
+
 Database: SQLite (A file-based database)
+
 Frontend: HTML, JavaScript, CSS
+
 Built with ❤️ using **Python, Flask, and Vanilla CSS**.
 
 ## ⭐ Acknowledgement
