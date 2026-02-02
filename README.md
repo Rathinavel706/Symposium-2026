@@ -7,7 +7,7 @@ This project solves the chaotic management of college fests by providing a centr
 
 ## 🏫 College Details
 *   **College Name: University college of Engineering Panruti
-*   **Event Name**: INR Symposium 2026
+*   **Event Name**: ECE Symposium 2026
 *   **Event Type**: International Level Technical & Non-Technical Symposium
 *   **Focus Area**: Innovation, Technology, and Creativity
 
