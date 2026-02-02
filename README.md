@@ -52,7 +52,6 @@ This project solves the chaotic management of college fests by providing a centr
 
 ## 🛠️ Installation & Setup (For Developers)
 
-This project uses **Python (Flask)** and **SQLite**.
 
 1.  **Clone the Repo**:
     ```bash
@@ -70,7 +69,11 @@ This project uses **Python (Flask)** and **SQLite**.
 **Event Coordinator -- Rathinavel**
 Github Link -- https://github.com/Rathinavel706
 
-*   Built with ❤️ using **Python, Flask, and Vanilla CSS**.
+💻 Technology Used:
+Language: Python (Flask Framework)
+Database: SQLite (A file-based database)
+Frontend: HTML, JavaScript, CSS
+Built with ❤️ using **Python, Flask, and Vanilla CSS**.
 
 ## ⭐ Acknowledgement
 This project was created to demonstrate a full-stack event management solution, ensuring security, speed, and user experience.
